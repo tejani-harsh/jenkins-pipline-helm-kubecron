@@ -1,0 +1,15 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: check-pending-pod
+spec:
+  schedule: "* * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+            - name: check-pending-pod
+              image: tejaniharsh/smtp-email:latest
+              imagePullPolicy: IfNotPresent
+          restartPolicy: OnFailure

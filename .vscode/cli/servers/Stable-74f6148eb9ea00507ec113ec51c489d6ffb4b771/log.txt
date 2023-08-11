@@ -1,0 +1,31 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-71fc1cf2-e3bd-4d58-a0e8-cbb08d98d8a6
+Extension host agent listening on /tmp/code-71fc1cf2-e3bd-4d58-a0e8-cbb08d98d8a6
+
+[13:31:27] 
+
+
+
+
+[13:31:27] Extension host agent started.
+[13:31:27] [<unknown>][b28eff33][ManagementConnection] New connection established.
+[13:31:28] [<unknown>][dcb611cb][ExtensionHostConnection] New connection established.
+[13:31:28] [<unknown>][dcb611cb][ExtensionHostConnection] <181019> Launched Extension Host Process.
+[13:31:34] [<unknown>][b28eff33][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:31:34] [<unknown>][dcb611cb][ExtensionHostConnection] <181019> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[13:31:34] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[13:31:34] Last EH closed, waiting before shutting down
+[13:31:35] [<unknown>][8b80c2c9][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Revived process, old id 2 -> new id 3
+[13:31:35] [<unknown>][8a584d4f][ExtensionHostConnection] New connection established.
+[13:31:35] [<unknown>][8a584d4f][ExtensionHostConnection] <181157> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[13:36:34] New EH opened, aborting shutdown

@@ -1,0 +1,23 @@
+2023-08-11 11:11:11.572 [info] 
+
+
+
+
+2023-08-11 11:11:11.584 [info] Extension host agent started.
+2023-08-11 11:11:11.756 [info] [<unknown>][31360fa2][ExtensionHostConnection] New connection established.
+2023-08-11 11:11:11.757 [info] [<unknown>][1a043ce0][ManagementConnection] New connection established.
+2023-08-11 11:11:11.764 [info] [<unknown>][31360fa2][ExtensionHostConnection] <121423> Launched Extension Host Process.
+2023-08-11 11:11:27.489 [info] [<unknown>][638ad061][ManagementConnection] New connection established.
+2023-08-11 11:11:27.490 [info] [<unknown>][436ffb46][ExtensionHostConnection] New connection established.
+2023-08-11 11:11:27.498 [info] [<unknown>][436ffb46][ExtensionHostConnection] <121521> Launched Extension Host Process.
+2023-08-11 11:12:31.166 [error] Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-11 11:12:31.672 [info] Getting Manifest... ms-azuretools.vscode-docker
+2023-08-11 11:12:31.692 [info] Installing extension: ms-azuretools.vscode-docker
+2023-08-11 11:12:32.393 [warning] Extension signature verification failed with error 'ENOENT': ms-azuretools.vscode-docker
+2023-08-11 11:12:32.577 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.26.0: ms-azuretools.vscode-docker
+2023-08-11 11:12:32.602 [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-azuretools.vscode-docker-1.26.0
+2023-08-11 11:12:32.621 [info] Extracting extension completed. ms-azuretools.vscode-docker
+2023-08-11 11:12:32.630 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2023-08-11 11:16:11.585 [info] New EH opened, aborting shutdown
+2023-08-11 11:16:27.569 [info] [<unknown>][31360fa2][ExtensionHostConnection] <121423> Extension Host Process exited with code: 0, signal: null.

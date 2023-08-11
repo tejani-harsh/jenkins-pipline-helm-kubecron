@@ -1,0 +1,44 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-1dfa15f8-8cc3-4e14-9e03-c21f5c6353c2
+Extension host agent listening on /tmp/code-1dfa15f8-8cc3-4e14-9e03-c21f5c6353c2
+
+[07:12:15] 
+
+
+
+
+[07:12:15] Extension host agent started.
+[07:12:15] [<unknown>][ac32a218][ManagementConnection] New connection established.
+[07:12:15] [<unknown>][b3c600e4][ExtensionHostConnection] New connection established.
+[07:12:15] [<unknown>][b3c600e4][ExtensionHostConnection] <29454> Launched Extension Host Process.
+[07:12:31] [<unknown>][ac32a218][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:12:31] [<unknown>][b3c600e4][ExtensionHostConnection] <29454> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[07:12:31] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[07:12:31] Last EH closed, waiting before shutting down
+[07:12:32] [<unknown>][9444d54b][ManagementConnection] New connection established.
+[07:12:32] [<unknown>][2d8ea319][ExtensionHostConnection] New connection established.
+[07:12:32] [<unknown>][2d8ea319][ExtensionHostConnection] <34295> Launched Extension Host Process.
+[07:13:36] [<unknown>][9444d54b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[07:13:36] [<unknown>][2d8ea319][ExtensionHostConnection] <34295> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[07:13:36] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[07:13:36] Last EH closed, waiting before shutting down
+[07:13:48] [<unknown>][a060939f] Client refused: version mismatch.
+[07:13:48] [<unknown>][f30cb22e] Client refused: version mismatch.
+[07:13:49] [<unknown>][a318a18d] Client refused: version mismatch.
+[07:13:49] [<unknown>][5c12c7dd] Client refused: version mismatch.
+[07:13:49] [<unknown>][a76138ec] Client refused: version mismatch.
+[07:13:49] [<unknown>][204e9e21] Client refused: version mismatch.
+[07:13:49] [<unknown>][65a4888b] Client refused: version mismatch.
+[07:13:50] [<unknown>][58884640] Client refused: version mismatch.
+[07:13:50] [<unknown>][94d159fb] Client refused: version mismatch.
+[07:13:50] [<unknown>][958cceac] Client refused: version mismatch.

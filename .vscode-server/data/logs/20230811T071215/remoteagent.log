@@ -1,0 +1,30 @@
+2023-08-11 07:12:15.428 [info] 
+
+
+
+
+2023-08-11 07:12:15.462 [info] Extension host agent started.
+2023-08-11 07:12:15.666 [info] [<unknown>][ac32a218][ManagementConnection] New connection established.
+2023-08-11 07:12:15.844 [info] [<unknown>][b3c600e4][ExtensionHostConnection] New connection established.
+2023-08-11 07:12:15.881 [info] [<unknown>][b3c600e4][ExtensionHostConnection] <29454> Launched Extension Host Process.
+2023-08-11 07:12:31.548 [info] [<unknown>][ac32a218][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-11 07:12:31.586 [info] [<unknown>][b3c600e4][ExtensionHostConnection] <29454> Extension Host Process exited with code: 0, signal: null.
+2023-08-11 07:12:31.587 [info] Cancelling previous shutdown timeout
+2023-08-11 07:12:31.587 [info] Last EH closed, waiting before shutting down
+2023-08-11 07:12:32.371 [info] [<unknown>][9444d54b][ManagementConnection] New connection established.
+2023-08-11 07:12:32.766 [info] [<unknown>][2d8ea319][ExtensionHostConnection] New connection established.
+2023-08-11 07:12:32.794 [info] [<unknown>][2d8ea319][ExtensionHostConnection] <34295> Launched Extension Host Process.
+2023-08-11 07:13:36.411 [info] [<unknown>][9444d54b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-11 07:13:36.474 [info] [<unknown>][2d8ea319][ExtensionHostConnection] <34295> Extension Host Process exited with code: 0, signal: null.
+2023-08-11 07:13:36.474 [info] Cancelling previous shutdown timeout
+2023-08-11 07:13:36.475 [info] Last EH closed, waiting before shutting down
+2023-08-11 07:13:48.780 [error] [<unknown>][a060939f] Client refused: version mismatch.
+2023-08-11 07:13:48.929 [error] [<unknown>][f30cb22e] Client refused: version mismatch.
+2023-08-11 07:13:49.139 [error] [<unknown>][a318a18d] Client refused: version mismatch.
+2023-08-11 07:13:49.341 [error] [<unknown>][5c12c7dd] Client refused: version mismatch.
+2023-08-11 07:13:49.546 [error] [<unknown>][a76138ec] Client refused: version mismatch.
+2023-08-11 07:13:49.791 [error] [<unknown>][204e9e21] Client refused: version mismatch.
+2023-08-11 07:13:49.972 [error] [<unknown>][65a4888b] Client refused: version mismatch.
+2023-08-11 07:13:50.243 [error] [<unknown>][58884640] Client refused: version mismatch.
+2023-08-11 07:13:50.351 [error] [<unknown>][94d159fb] Client refused: version mismatch.
+2023-08-11 07:13:50.752 [error] [<unknown>][958cceac] Client refused: version mismatch.

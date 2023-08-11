@@ -1,0 +1,82 @@
+{
+	"version": "0.1.8",
+	"license": "MIT",
+	"name": "vscode-remix",
+	"displayName": "Remix Theme",
+	"description": "Pleasant to look at color theme",
+	"publisher": "surajmandalcell",
+	"author": {
+		"name": "Suraj Mandal",
+		"email": "dev@surajmandal.in",
+		"url": "https://surajmandal.in"
+	},
+	"tags": [
+		"theme",
+		"vscode",
+		"remix",
+		"remix-theme",
+		"remix-themes",
+		"vscode-remix",
+		"remix-themes-vscode",
+		"remix-themes-vscode-extension",
+		"suraj",
+		"mandal",
+		"surajmandal",
+		"surajmandalcell",
+		"surajmandalcell.remix-theme"
+	],
+	"keywords": [
+		"theme",
+		"vscode",
+		"remix",
+		"remix-theme",
+		"remix-themes",
+		"vscode-remix",
+		"remix-themes-vscode",
+		"remix-themes-vscode-extension",
+		"suraj",
+		"mandal",
+		"surajmandal",
+		"surajmandalcell",
+		"surajmandalcell.remix-theme"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/surajmandalcell/vscode-remix"
+	},
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#181818",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Remix Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/remix-color-theme-dark.json"
+			},
+			{
+				"label": "Remix Light",
+				"uiTheme": "vs",
+				"path": "./themes/remix-color-theme-light.json"
+			}
+		]
+	},
+	"__metadata": {
+		"publisherDisplayName": "Suraj Mandal",
+		"id": "0bd18de6-0d0b-4ea0-82b7-8d7ed0f8bb7e",
+		"publisherId": "092f520d-d14a-4d62-9781-1b106e7879f4",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1691755399355
+	}
+}

@@ -1,0 +1,1 @@
+{"specversion":"1.0","id":"539ed050-c570-4707-adc2-65f9c6c487f6","source":"https://minikube.sigs.k8s.io/","type":"io.k8s.sigs.minikube.audit","datacontenttype":"application/json","data":{"args":"","command":"start","endTime":"","id":"2b9a656f-e35f-45aa-a0c8-6aefb1fbc37f","profile":"minikube","startTime":"11 Aug 23 06:46 UTC","user":"ubuntu","version":"v1.31.1"}}

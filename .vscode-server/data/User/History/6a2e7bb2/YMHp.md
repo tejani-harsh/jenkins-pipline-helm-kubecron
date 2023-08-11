@@ -1,0 +1,23 @@
+```
+docker build -t tejaniharsh/web-app-image:latest .
+docker push tejaniharsh/web-app-image:latest
+
+
+```
+k delete cronjob check-pending-pod
+k delete pod pending-demo
+```
+
+```
+cd part4
+k apply -f pending.yaml
+k apply -f cron.yaml
+```
+
+```
+helm install release1 . 
+```
+
+```
+
+```

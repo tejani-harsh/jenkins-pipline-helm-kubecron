@@ -1,0 +1,33 @@
+2023-08-11 11:24:24.665 [info] 
+
+
+
+
+2023-08-11 11:24:24.678 [info] Extension host agent started.
+2023-08-11 11:24:24.844 [info] [<unknown>][94700ab4][ManagementConnection] New connection established.
+2023-08-11 11:24:24.852 [info] [<unknown>][ba38aa20][ExtensionHostConnection] New connection established.
+2023-08-11 11:24:24.858 [info] [<unknown>][ba38aa20][ExtensionHostConnection] <129671> Launched Extension Host Process.
+2023-08-11 11:24:27.822 [error] CodeExpectedError: Could not find pty on pty host
+    at g.P (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:28:7542)
+    at g.attachToProcess (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:28:2505)
+    at g.B.<computed> (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:27:22689)
+    at Object.call (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:17:4867)
+    at l.s (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at l.q (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at k.w (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at k.fire (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.X (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/platform/terminal/node/ptyHostMain.js:8:27134)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-08-11 11:29:24.678 [info] New EH opened, aborting shutdown
+2023-08-11 11:29:35.036 [error] Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-08-11 12:03:19.149 [info] Getting Manifest... surajmandalcell.vscode-remix
+2023-08-11 12:03:19.167 [info] Installing extension: surajmandalcell.vscode-remix
+2023-08-11 12:03:19.462 [warning] Extension signature verification failed with error 'ENOENT': surajmandalcell.vscode-remix
+2023-08-11 12:03:19.517 [info] Extracted extension to file:///home/ubuntu/.vscode-server/extensions/surajmandalcell.vscode-remix-0.1.8: surajmandalcell.vscode-remix
+2023-08-11 12:03:19.522 [info] Renamed to /home/ubuntu/.vscode-server/extensions/surajmandalcell.vscode-remix-0.1.8
+2023-08-11 12:03:19.524 [info] Extracting extension completed. surajmandalcell.vscode-remix
+2023-08-11 12:03:19.530 [info] Extension installed successfully: surajmandalcell.vscode-remix

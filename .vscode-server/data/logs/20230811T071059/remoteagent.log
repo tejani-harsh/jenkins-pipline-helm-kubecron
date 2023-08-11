@@ -1,0 +1,19 @@
+2023-08-11 07:10:59.169 [info] 
+
+
+
+
+2023-08-11 07:10:59.169 [info] Extension host agent started.
+2023-08-11 07:10:59.186 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2023-08-11 07:10:59.205 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2023-08-11 07:10:59.332 [info] [<unknown>][75e5ebd0][ExtensionHostConnection] New connection established.
+2023-08-11 07:10:59.333 [info] [<unknown>][2f9adbf9][ManagementConnection] New connection established.
+2023-08-11 07:10:59.342 [info] [<unknown>][75e5ebd0][ExtensionHostConnection] <20885> Launched Extension Host Process.
+2023-08-11 07:13:41.281 [info] [<unknown>][2f9adbf9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-11 07:13:41.283 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode/cli/servers/Stable-6c3e3dba23e8fadc360aed75ce363ba185c49794/server/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)

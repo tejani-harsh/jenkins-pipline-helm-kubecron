@@ -1,0 +1,14 @@
+replicas: 1
+
+image:
+  repository: tejaniharsh/web-app-image
+  tag: latest
+  pullPolicy: IfNotPresent
+
+service:
+  type: LoadBalancer
+
+deployment:
+  initialDelaySeconds: 0
+
+envState: "PROD"

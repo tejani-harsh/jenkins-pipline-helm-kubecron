@@ -1,0 +1,13 @@
+2023-08-11 11:11:13.017 [info] Extension host with pid 121423 started
+2023-08-11 11:11:13.082 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/-75072ec8/vscode.lock': Lock acquired.
+2023-08-11 11:11:13.126 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-11 11:11:13.309 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-08-11 11:11:13.364 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-11 11:11:13.466 [info] Eager extensions activated
+2023-08-11 11:11:13.466 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-11 11:11:13.466 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-11 11:11:14.735 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-08-11 11:11:15.925 [error] Error: ENOENT: no such file or directory, scandir '/home/ubuntu/part'
+2023-08-11 11:16:27.549 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-08-11 11:16:27.550 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/-75072ec8/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-11 11:16:27.561 [info] Extension host with pid 121423 exiting with code 0
